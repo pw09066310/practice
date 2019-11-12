@@ -1,0 +1,5 @@
+com\vcredit\mybatisplus\mapper\UserMapper.class
+com\vcredit\mybatisplus\controller\UserController.class
+com\vcredit\mybatisplus\domain\User.class
+com\MybatisplusDemoApplication.class
+com\vcredit\mybatisplus\config\MybatisPlusConfig.class
