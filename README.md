@@ -1,0 +1,2 @@
+# practice
+之前做过php的项目，用的thinkphp框架，发现他们的sql封装很好很灵活，在这一版本的mybatis-plus看到了这一应用，于是怀着激动的心情加到项目中
